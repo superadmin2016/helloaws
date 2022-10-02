@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lambda", "Lambda", "{8D87EAB6-D249-46CB-A6DF-9D94E803C89E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AWSServerless1", "AWSServerless1\AWSServerless1.csproj", "{B41DA8FB-3B62-4B06-9049-CC17688DB440}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AWSServerless1.Tests", "AWSServerless1.Tests\AWSServerless1.Tests.csproj", "{FEDFD10D-D327-458A-BD05-03B9B03F0BCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B41DA8FB-3B62-4B06-9049-CC17688DB440}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B41DA8FB-3B62-4B06-9049-CC17688DB440}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B41DA8FB-3B62-4B06-9049-CC17688DB440}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B41DA8FB-3B62-4B06-9049-CC17688DB440}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEDFD10D-D327-458A-BD05-03B9B03F0BCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEDFD10D-D327-458A-BD05-03B9B03F0BCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEDFD10D-D327-458A-BD05-03B9B03F0BCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEDFD10D-D327-458A-BD05-03B9B03F0BCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B41DA8FB-3B62-4B06-9049-CC17688DB440} = {8D87EAB6-D249-46CB-A6DF-9D94E803C89E}
+		{FEDFD10D-D327-458A-BD05-03B9B03F0BCB} = {8D87EAB6-D249-46CB-A6DF-9D94E803C89E}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3C13462-FB80-4BB2-874E-B6EE321B801D}
+	EndGlobalSection
+EndGlobal

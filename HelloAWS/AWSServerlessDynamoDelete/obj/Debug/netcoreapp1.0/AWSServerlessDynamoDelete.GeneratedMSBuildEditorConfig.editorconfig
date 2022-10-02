@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = AWSServerlessDynamoDelete
+build_property.ProjectDir = C:\Projects\Github\HelloAWS\HelloAWS\AWSServerlessDynamoDelete\

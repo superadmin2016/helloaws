@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "dX7OJuzWZqcYcjuKNppe9rIkS07SugPAfkjuHdbDmJv2rXc9lvmTXKcBDCK0sRzOov/NoPQ0TwH55LNLB7iTbw==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\Github\\HelloAWS\\HelloAWS\\AWSServerless1\\AWSServerless1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shyam\\.nuget\\packages\\amazon.lambda.apigatewayevents\\2.4.1\\amazon.lambda.apigatewayevents.2.4.1.nupkg.sha512",
+    "C:\\Users\\shyam\\.nuget\\packages\\amazon.lambda.core\\2.1.0\\amazon.lambda.core.2.1.0.nupkg.sha512",
+    "C:\\Users\\shyam\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.3.0\\amazon.lambda.serialization.systemtextjson.2.3.0.nupkg.sha512",
+    "C:\\Users\\shyam\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\6.0.3\\microsoft.netcore.app.crossgen2.win-x64.6.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
